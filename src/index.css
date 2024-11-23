@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.content-center {
+    height: 80vh;
+    width: 100%;
+}
+
+.active {
+    color: #0e7490;
+}
